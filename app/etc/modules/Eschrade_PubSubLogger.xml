@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Eschrade_PubSubLogger>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Eschrade_PubSubLogger>
+    </modules>
+</config>
